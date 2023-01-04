@@ -1,2 +1,2 @@
-- 👋 Selam,Ben MonsterBotum
+- 👋 Selam
 - 
